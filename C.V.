@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jorge Zuta</title>
+</head>
+<body>
+    <p>Curriculum Vitae</p>
+    
+    <!-- imagen de Jorge Zuta -->
+    <img src="fotos/IMG_20240204_203731.jpg" alt="imagen de Jorge Zuta">
+    
+        <h1>Jorge Zuta</h1>
+            
+    <h2>Resumen</h2>
+    
+    <p>Dentro de la trayectoria laboral de Jorge destacan la colaboración en compañias como Watts, y actualmente Good Food, en donde se desempeña como operador de calderas y suministros </p>
+    
+    <h2>Datos Personales</h2>
+    
+    <ul>
+        <li>Nombre: Jorge Juan Zuta Herrera</li>
+        <li>Lugar de Nacimiento: Santiago de Chile</li>
+        <li>Fecha de Nacimiento: 25 de agosto 1979</li>
+    </ul>
+    
+    <h2>Formación</h2>
+    
+    <ul>
+        <li>Enseñanza Básica Colegio Alcantara</li>
+        <li>Enseñanza Media English College</li>
+        <li>Estudiante Técnico Universitario en Programación computacional Universidad Mayor</li>
+    </ul>
+
+
+    <h2>Capacitaciones</h2>
+
+    <h4>Capacitaciones Servicio Nacional de Capacitación y Empleo, SENCE.</h4>
+
+<ol>
+    <li>Herramientas de Microsoft Excel - Nivel Básico</li>
+<li>Manejo De Los Fundamentos Legales De La Prevención De Riesgos Para La
+    Eficiencia En La Gestión De Situaciones De Emergencia Laboral</li>
+<li>Herramientas para mejorar la calidad de vida laboral</li>
+<li>Técnicas De Autocuidado Y Relajación En El Puesto De Trabajo</li>
+<li>Aplicaciones matemáticas y razonamiento lógico</li>
+<li>Introducción al análisis de peligros y puntos críticos de control (HACCP)</li>
+<li>Lengua de señas</li>
+</ol>
+
+    <h4>Capacitaciones jóvenes programadores</h4>
+<ol>
+        <li>Programar el arte y el arte de programar</li>
+        <li>Herramientas digitales para el emprendimiento </li>
+        <li>Introducción a la programación con HTML5</li>
+        <li>JavaScript 1</li>
+        <li>Introducción a Python</li>
+        <li>Python 2 introducción a Django</li>
+        <li>Introducción a la analítica de datos con Python</li>
+</ol>
+
+
+    <h4>Desafío Latam</h4>
+
+<ol>
+        <li>Introducción al Desarrollo Web</li>
+        <li>Introducción al Análisis de datos con
+            Python</li>
+        <li>English for Developers & IT Professionals</li>
+</ol>
+
+    <h4>Universidad Mayor</h4>
+
+  <ol>
+    <li>Fundamentos de Machine Learning en Python UM</li>
+  </ol>
+        
+
+    <a href="https://1drv.ms/u/c/d914cae636b972a4/EQO4Gl4HtmNOmbydzqaFpbQB_SqoLaWgyqIZ2-rVB3DLmQ?e=V2ghTe">enlace a portafolio</a> <!-- titulo -->
+
+</body>
+</html>
